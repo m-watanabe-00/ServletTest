@@ -32,7 +32,7 @@
        				<tr>
         				<td>
         	 				<p>お問合せ内容(必須)</p>
-        	 				<textarea name="text" placeholder="問合せ内容はここに記入してください" required></textarea>
+        	 				<textarea name="comment" placeholder="問合せ内容はここに記入してください" required></textarea>
         				</td>
       				</tr>
       				<tr>
